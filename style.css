@@ -1,8 +1,3 @@
-@font-face {
-  font-family: "berlow";
-  src: url(../BarlowSemiCondensed-Regular.ttf);
-}
-
 :root {
   --firs-color: #733fc8;
   --second-color: #48556a;
@@ -19,7 +14,7 @@
 }
 
 body {
-  font-family: "berlow";
+  font-family: "Barlow Semi Condensed", serif;
   background-color: var(--sixth-color);
 }
 
